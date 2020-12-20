@@ -1,0 +1,214 @@
+
+.header{
+    width: 1400px;
+    height: 250px;
+    left: 0px;
+    top: 0px;
+
+}
+.why{
+    margin: 0 auto;
+    width: 409px;
+    height: 38px;
+    left: 496px;
+    padding-top: 100px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #212121;    
+}
+.hr{
+    background-color: #E72424;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 64px;
+    height: 2px;
+    left: 668px;
+    top: 180px;
+    
+    border: 1px;  
+}
+.loremm{
+    margin: 0 auto;
+    width: 363px;
+    height: 19px;
+    left: 519px;
+    top: 195px;
+    margin-top: 30px;
+    color: #86878B;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+.containers{
+    width: 1400px;
+    height: 345px;
+}
+.box-left{
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    padding: 67px 32px 89px 143px;  
+}
+.circle-left{
+    height: 70px;
+    width: 70px;
+    left: 140px;
+    top: 0px;
+    border-radius: 50px;
+    mix-blend-mode: normal;
+    border: 1px solid #E72424;
+    margin-left: 140px;
+  
+}
+.lamp{
+    width: 22px;
+    height: 30px;
+    left: 164px;
+    top: 20px;
+    margin-top: 20px;
+    margin-right:23px;
+    margin-left: 24px;
+    margin-bottom: 20px;
+}
+.design{
+    height: 29px;
+    width: 189px;
+    left: 81px;
+    top: 30px;
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom: 16px;
+    margin-left: 81px;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    
+}
+.lorem{
+    height: 60px;
+    width: 350px;
+    left: 0px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+}
+.box-center{
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    padding: 67px 32px 89px 0px;
+}
+.circle-center{
+    height: 70px;
+    width: 70px;
+    left: 140px;
+    top: 0px;
+    border-radius: 50px;
+    mix-blend-mode: normal;
+    border: 1px solid #E72424;
+    margin-left: 140px;
+}
+.keyboard{
+    height: 26px;
+    width: 37px;
+    left: 157px;
+    top: 22px;
+    margin-top: 22px;
+    margin-right: 16px;
+    margin-left: 17px;
+    margin-bottom: 22px;
+}
+.well{
+    height: 29px;
+    width: 189px;
+    left: 81px;
+    top: 30px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+    margin-left: 81px;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+}
+.lorem{
+    height: 60px;
+    width: 350px;
+    left: 0px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+}
+.box-right{
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    padding: 67px 32px 89px 0px;
+}
+.circle-right{
+    height: 70px;
+    width: 70px;
+    left: 140px;
+    top: 0px;
+    border-radius: 50px;
+    mix-blend-mode: normal;
+    border: 1px solid #E72424;
+    margin-left: 140px;
+}
+.storm{
+    left: 157px;
+    top: 19px;
+    margin-top: 19px;
+    margin-right: 24px;
+    margin-left: 25px;
+    margin-bottom: 18px;
+}
+.easy{
+    height: 29px;
+    width: 189px;
+    left: 81px;
+    top: 30px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+    margin-left: 81px;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+}
+.lorem{
+    height: 60px;
+    width: 350px;
+    left: 0px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+}
